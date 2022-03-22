@@ -30,7 +30,7 @@ BNB - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff
   
 Thank's to Empaticgame! spend: 0,8 BNB ❤️
 
-UPDATE SOON FOR MORE PROFIT!!!
+UPDATE SOON FOR MORE PROFIT!!
 
 
 ## 💡 Installation
