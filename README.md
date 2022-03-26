@@ -1,6 +1,7 @@
 
 # **🥞 PancakeSwap Prediction v1.0.0 🥞**
 
+
 ![PancakeSwap-Logo-Big](07C6A696-033C-4625-A93C-D41EED5AD57F.jpeg)
   <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion/releases">
     <img alt="GitHub all releases" src="https://img.shields.io/github/followers/SavannahCatToken?style=social">
@@ -30,7 +31,7 @@ BNB - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff
   
 Thank's to Empaticgame! spend: 0,8 BNB ❤️
 
-UPDATE SOON FOR MORE PROFIT!!
+UPDATE SOON FOR MORE PROFIT!
 
 
 ## 💡 Installation
