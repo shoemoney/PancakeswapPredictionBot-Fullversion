@@ -1,8 +1,7 @@
+# **🥞 PancakeSwap Prediction v3.0 new Update 🥞**
 
-# **🥞 PancakeSwap Prediction v1.0.0 🥞**
 
-
-![PancakeSwap-Logo-Big](07C6A696-033C-4625-A93C-D41EED5AD57F.jpeg)
+![PancakeSwap-Logo-Big](logo.jpeg)
   <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion/releases">
     <img alt="GitHub all releases" src="https://img.shields.io/github/followers/SavannahCatToken?style=social">
   </a>
@@ -17,24 +16,36 @@
   </a>
 
 
-This bot wins the majority of rounds on PancakeSwap & CandleGenie based.
+This bot wins the majority of rounds on PancakeSwap based.
 This bot survived the beta and is now in the full version. Feel Free to contact us: support@assaempire.eu
-## our thanks:
 
-BOT is free-to-use, but you are welcome to appreciate my work ☺️
+## NEWS *Update 4.0*
 
-ETH - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff
+our update is in planning. there's a lot coming your way.
+We know some bugs (Windows use)
 
-BNB - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff  
-  
-Thank's to Empaticgame! spend: 0,8 BNB ❤️
 
-## *UPDATE SOON*
 
-![Soon](https://i.ibb.co/yNbWKxt/8-BCEF73-A-790-B-4-DA5-98-FB-E53320727-F36.jpg)
+## *Our Team*
 
-- Fix some bugs 
-- Windows Support 
+![Our Team](https://i.ibb.co/8jR3Fcv/logo.png)
+
+- AssaEmpire (Owner/Programmer)
+- SavannahCat (Github, Reddit, Youtube and Twitter Support)
+- XBronx (Programmer)
+- K4L (Youtube Supporter)
+
+Thank u all <3
+
+
+## **Our YT Videos** 
+
+K4L: https://www.youtube.com/watch?v=7glaF_gIDj8&t=42s
+
+
+SavannahCat: https://www.youtube.com/watch?v=oI8YoWaqALE&t=3s
+
+
 
 ## 💡 Installation.
 
@@ -65,7 +76,7 @@ Then run command prompt or powershell
 # Your wallet private key. 
 PRIVATE_KEY="YOUR_PRIVATE_KEY_HERE"
 # The maximum bet amount you are willing to execute.
-BET_AMOUNT="0.002"
+BET_AMOUNT="0.1"
 # RPC is the default network for Ether transactions. For Binance Smart Chain, leave it as it is.
 RPC="https://bsc-dataseed.binance.org/"
 ```
@@ -94,7 +105,10 @@ Running this bot for a day had made me $55 with minimum bets. Please note I was 
 
 ## 📈 Updates
 
-[Available soon]: supports [Uniswap] & [ApeSwap], Android/IOS support with Metamask
+[Available soon]: 
+
+- Fix some bugs 
+- Windows Support 
 
 
 ## ⚠️ Beware of clones!
@@ -110,15 +124,29 @@ Any reference to an investment's past or potential performance is not, and shoul
 ## 💼 License
 MIT License
 
+## our thanks:
+
+BOT is free-to-use, but you are welcome to appreciate my work ☺️
+
+ETH - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff
+
+BNB - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff  
+  
+Thank's to Empaticgame! spend: 0,8 BNB ❤️
+
+
+
+
+
 ## 📧 If you need some help contact me
 
-***support@assaempire.eu
-  
-  
+***support@assaempire.eu***
+
+
+
 ## Reddit Hater's 
  
 ![Hater's](https://cdn.arstechnica.net/wp-content/uploads/2019/03/reddit-games-silence.png)
   
   
 **We know about a few Reddit haters. We cannot rule out whether these are bots or unsuspecting would-be coders. The AssaEmpire Team will contact Github with the problems so that this no longer occurs. Thank you for reading and have fun :)**
-
